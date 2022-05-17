@@ -1,0 +1,1 @@
+Natively integrated notification logger

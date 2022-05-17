@@ -1,0 +1,1 @@
+Spotify now playing redesign
